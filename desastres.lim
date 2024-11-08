@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Desastres Naturales</titulo>
+        <autor>Por Yoifer Barrera</autor>
+        <logo>HURACAN.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>Definición de Desastres Naturales</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>Definici_on_de_desastres_natura.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <cabeceira>Tipos de desastres naturales</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>Tipos_de_desastres_naturales.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <cabeceira>Terremotos y erupciones volcánicas.</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>Terremotos_y_erupciones_volc_an.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <cabeceira>Tsunamis y Huracanes</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>tsunamis_y_huracanes.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <cabeceira>sequías e inundaciones</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>sequ_ias_e_inundaciones.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <cabeceira>tornados y tormentas</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>tornados_y_tormentas.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <cabeceira>Conclusión</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>Conclusi_on_y_pr_oximos_pasos.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <cabeceira>Actividades de Evaluación</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>Actividades_de_Evaluaci_on.png</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="18"><b></b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <cabeceira>Complete la definición de Desastres naturales.</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>HURACAN.png</imaxe>
+              <texto><![CDATA[Los desastres naturales son eventos causados...]]></texto>
+              <resp texto="">por fenómenos de la naturaleza</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>14</tipo>
+              <cabeceira>Identifica el tipo de desastre y arrástralo a la opción correspondiente</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <peza imaxe="d.png" texto="TERREMOTOS" son="">TERREMOTO.png</peza>
+              <peza imaxe="d.png" texto="TORNADO" son="">HURACAN.png</peza>
+              <peza imaxe="d.png" texto="SEQUIA" son="">SEQUIA.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>46</tipo>
+              <cabeceira>Relaciona cada tipo de desastre natural con la palabra</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <etiqueta texto="Lava"  posy="4">Terremoto</etiqueta>
+              <etiqueta texto="Agua"  posy="5">Huracán</etiqueta>
+              <etiqueta texto="Fuego"  posy="6">Tsunami</etiqueta>
+              <etiqueta texto="Sismo"  posy="1">Erupción volcánica</etiqueta>
+              <etiqueta texto="Viento"  posy="2">Inundación</etiqueta>
+              <etiqueta texto="Olas"  posy="3">Incendio forestal</etiqueta>
+        </paxina>
+        <paxina id="12" >
+              <tipo>3</tipo>
+              <cabeceira>Completa el Rompecabezas</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <imaxe>mezcla_de_desastres.jpg</imaxe>
+              <imfondo  trans="20">mezcla_de_desastres.jpg</imfondo>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>4</tipo>
+              <cabeceira>Completa la sopa de letras</cabeceira>
+              <pe>Por Yoifer Barrera</pe>
+              <modo>2</modo>
+              <sopa enun="HURACAN.png">HURACAN</sopa>
+              <sopa enun="TERREMOTO.png">TERREMOTO</sopa>
+              <sopa enun="INCENDIOS.jpg">INCENDIOS</sopa>
+              <sopa enun="torn.jpg">TORNADO</sopa>
+              <sopa enun="sequia2.jpg">SEQUIA</sopa>
+              <sopa enun="volcan.jpg">VOLCAN</sopa>
+              <sopa enun="TZUMANI.jpg">TSUNAMI</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>1</cadro>
+              <fondo>abcdefghijklmnopqrstuvwyz</fondo>
+        </paxina>
+    </libro>
+</lim>
